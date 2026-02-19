@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzzaturr&label=Profile%20views&color=0e75b6&style=flat" alt="souzzaturr" /> </p>
 
-- 🔭 I’m currently working on [MediaVirtu](https://mediavirtu.vercel.app)
+- 🔭 I’m currently working on my project [MediaVirtu](https://mediavirtu.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 
